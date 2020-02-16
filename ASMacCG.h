@@ -53,7 +53,7 @@ ASMacCG.h
 #endif
 #endif
 
-#include "../toolkit/toolkit.h"
+#include "../apetoolkit/toolkit.h"
 #include "../sim/sim.h"
 
 @interface ASMacCG : NSView
