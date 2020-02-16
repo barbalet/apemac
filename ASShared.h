@@ -36,7 +36,6 @@
 #import <Cocoa/Cocoa.h>
 
 #include "shared.h"
-#include "../gui/gui.h"
 
 @interface ASShared : NSObject
 
